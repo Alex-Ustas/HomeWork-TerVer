@@ -6,6 +6,7 @@ ex0*.spec
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # User-specific files
+mat*
 *.rsuser
 *.suo
 *.user
